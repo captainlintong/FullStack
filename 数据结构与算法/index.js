@@ -24,5 +24,5 @@ function Strack () {
   this.clear = function () {
     items = []
   }
-
 }
+exports.Strack = Strack
