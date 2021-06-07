@@ -5,8 +5,8 @@ import './plugins/element.js'
 // import router from './router'
 import router from './krouter'
 
-import store from './store'
-// import store from './kstore'
+// import store from './store'
+import store from './kstore'
 
 Vue.config.productionTip = false
 // 事件总线
